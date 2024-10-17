@@ -199,20 +199,24 @@ input, select, textarea {
 		line-height: 1.5;
 		margin: 0 0 0.7em 0;
 		letter-spacing: -0.025em;
+		color:#2B9EB3;
+		
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color:#2B9EB3;
 			text-decoration: none;
 		}
 
 	h1 {
 		font-size: 2.5em;
 		line-height: 1.2;
+		color:#2B9EB3;
 	}
 
 	h2 {
 		font-size: 1.5em;
+		color:#2B9EB3;
 	}
 
 	h3 {
@@ -316,7 +320,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color:#2B9EB3;
 	}
 
 	blockquote {
@@ -3352,10 +3356,15 @@ input, select, textarea {
 			color: #636363;
 		}
 
-		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #636363;
+		#main h1{
+			color:#242424;
 		}
-
+		#main h2 {
+			color:#FBAC2D;
+		}
+		#main h3, #main h4, #main h5, #main h6 {
+			color:#2B9EB3;
+		}
 		#main blockquote {
 			border-left-color: #dddddd;
 		}
