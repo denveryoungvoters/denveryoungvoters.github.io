@@ -204,19 +204,19 @@ input, select, textarea {
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color:#2B9EB3;
+			color:#232323;
 			text-decoration: none;
 		}
 
 	h1 {
 		font-size: 2.5em;
 		line-height: 1.2;
-		color:#2B9EB3;
+		color:#232323;
 	}
 
 	h2 {
 		font-size: 1.5em;
-		color:#2B9EB3;
+		color:#232323;
 	}
 
 	h3 {
@@ -308,19 +308,19 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #ffffff;
+		color: #fffaee;
 	}
 
 	a:hover {
-		color: #ffffff;
+		color: #fffaee;
 	}
 
 	strong, b {
-		color: #ffffff;
+		color: #fffaee;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color:#2B9EB3;
+		color:#232323;
 	}
 
 	blockquote {
